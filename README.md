@@ -38,8 +38,8 @@ To fetch real-time data, you need a **BitQuery Access Token**:
 
 #### Option 1: Docker (Simple)
 ```bash
-docker pull paperpaws/paper-paws-poc:1.0.0
-docker run --name ghost-trader -p 8501:8501 paperpaws/paper-paws-poc:1.0.0
+docker pull ghosttrader/GhostTrade-Engine:0.1.0
+docker run --name ghost-trader -p 8501:8501 GhostTrade-Engine:0.1.0
 ```
 
 #### Option 2: Standalone Executable

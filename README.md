@@ -77,5 +77,5 @@ docker run --name ghost-trader -p 8501:8501 GhostTrade-Engine:0.1.0
 ### License
 Modified MIT License with Repository and Commercial Restrictions.
 
-*Developed by **TheSpectreFS***
+*Developed by **LixerDev***
 ```

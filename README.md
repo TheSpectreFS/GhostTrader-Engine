@@ -74,5 +74,5 @@ docker run --name ghost-trader -p 8501:8501 paperpaws/paper-paws-poc:1.0.0
 ### License
 Modified MIT License with Repository and Commercial Restrictions.
 
-*Developed by **The_SpectreFS***
+*Developed by **TheSpectreFS***
 ```

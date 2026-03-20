@@ -17,10 +17,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/PumtFun/pumt.git"
+    "url": "https://github.com/TheSpectreFS/GhostTrader-Engine.git"
   },
-  "homepage": "https://github.com/PumtFun/pumt",
+  "homepage": "https://github.com/TheSpectreFS/GhostTrader-Engine/tree/main",
   "bugs": {
-    "url": "https://github.com/PumtFun/pumt/issues"
+    "url": "https://github.com/TheSpectreFS/GhostTrader-Engine/issues"
   }
 }

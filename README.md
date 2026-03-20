@@ -1,5 +1,7 @@
 ## Operational Workflow
 
+Follow me here on my personal Twitter (X): https://x.com/Lix_Devv
+
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/7ce12542-62f3-4d84-9f28-e107708c739a" />
 
 

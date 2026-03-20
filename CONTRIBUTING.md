@@ -13,7 +13,7 @@ Thank you for your interest in contributing to pumt. This document provides guid
 ### Clone and install
 
 ```bash
-git clone https://github.com/PumtFun/pumt.git
+git clone https://github.com/TheSpectreFS/GhostTrader-Engine.git
 cd pumt
 npm install
 ```
@@ -88,7 +88,7 @@ chore: upgrade dependencies
 
 ## Reporting Issues
 
-Use [GitHub Issues](https://github.com/PumtFun/pumt/issues) for bug reports and feature requests. Please include:
+Use [GitHub Issues](https://github.com/TheSpectreFS/GhostTrade-Engine/issues) for bug reports and feature requests. Please include:
 
 - Clear description of the issue
 - Steps to reproduce (for bugs)

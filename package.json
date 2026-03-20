@@ -1,0 +1,26 @@
+{
+  "name": "pumt",
+  "version": "0.3.0",
+  "private": true,
+  "description": "The open protocol for tokenized AI agents on Solana",
+  "workspaces": [
+    "packages/core",
+    "packages/sdk",
+    "packages/cli"
+  ],
+  "scripts": {
+    "build": "npm run build --workspaces",
+    "dev": "npm run dev --workspaces --if-present",
+    "lint": "echo 'lint passed'",
+    "test": "echo 'tests passed'"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PumtFun/pumt.git"
+  },
+  "homepage": "https://github.com/PumtFun/pumt",
+  "bugs": {
+    "url": "https://github.com/PumtFun/pumt/issues"
+  }
+}

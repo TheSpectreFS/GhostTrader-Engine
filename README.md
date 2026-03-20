@@ -1,27 +1,3 @@
-```markdown
-<p align="center">
-  <img src="https://img.shields.io/badge/Solana-Simulation-14F195?style=for-the-badge&logo=solana&logoColor=black" alt="Solana" />
-  <img src="https://img.shields.io/badge/Protocol-Paper_Trading-blue?style=for-the-badge" alt="Protocol" />
-</p>
-
-<h1 align="center">GhostTrader Engine (POC)</h1>
-
-<p align="center">
-  <strong>High-fidelity paper trading simulator for the Solana Memecoin ecosystem.</strong><br/>
-  Test strategies, analyze real-time volatility, and master the market without financial risk.
-</p>
-
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/version-1.0.0-blue?style=flat-square" alt="Version" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/python-3.13-34d399?style=flat-square&logo=python" alt="Python" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/UI-Streamlit-FF4B4B?style=flat-square&logo=streamlit" alt="Streamlit" /></a>
-</p>
-
-> [!WARNING]  
-> **Legacy Status:** This Proof of Concept (POC) is currently not under active maintenance.
-
----
-
 ## Operational Workflow
 
 GhostTrader Engine acts as a localized execution layer that mirrors the Solana Mainnet using real-time data streams.
